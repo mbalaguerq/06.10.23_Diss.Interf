@@ -1,0 +1,46 @@
+p{
+    font-family: 'MedievalSharp', cursive;
+    text-align: center;
+    color: aliceblue;
+}
+h1{
+    font-family: 'MedievalSharp', cursive;
+    text-align: center;
+    color: brown;
+}
+@font-face{
+    font-family:homer;
+    src:url(Simpsonfont-DEMO.otf);
+}
+
+h2{
+    font-family: "homer";
+    text-align: center;
+    color: yellow;
+    }
+
+h3{
+    font-family: 'Oxygen', sans-serif;
+    text-align: center;
+    padding-top: 5px;
+    color: aliceblue;
+}
+h4{
+    font-family: 'Oxygen',sans-serif;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 5px;
+    color: aliceblue;
+}
+h5{
+    font-family: 'Oxygen',sans-serif;
+    font-style: italic;
+    text-align: center;
+    padding-top: 5px;
+    color: aliceblue;
+}
+
+
+body{
+    background-color: rgb(39, 39, 144);
+}
